@@ -353,6 +353,7 @@ article .icon{
 
 #projects {
     position: relative;
+
 }
 
 .color-container{
@@ -362,13 +363,14 @@ article .icon{
 
 .project-img{
     border-radius: 1rem;
-    width: 90%;
-    height: 90%;
+    width: 100%;
+    height: fit-content%;
 }
 
 .project-title{
     margin: 1rem;
     color: black;
+    font-size: small;
 }
 
 .project-btn{
